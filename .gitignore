@@ -3,6 +3,9 @@
 # Python virtual environment
 .venv/
 
+# Python sklearn-env
+sklearn-env/
+
 # Visual Studio Code settings and workspace
 .vscode/
 
